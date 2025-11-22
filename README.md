@@ -39,6 +39,9 @@ This project was developed as part of the **CSFCP (Computer Science Fundamentals
 3. The website will open in a browser.  
 
 
+**#Go to the pdf (named as screenshots of git commands) for the screenshots of the applictaions.**
+
+
  
 
 
