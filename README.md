@@ -3,7 +3,7 @@
 **Author: Kaushal**  
 
 
-**#About**
+**#About**  
 This is my personal portfolio website made with **HTML** and **CSS**.  
 It showcases my skills, projects, and contact information.  
 
@@ -11,7 +11,7 @@ This project was developed as part of the **CSFCP (Computer Science Fundamentals
 
 
 
-**#Tools & Commands Used**
+**#Tools & Commands Used**  
  **Visual Studio Code** – for writing and editing code  
  **Git** – for version control  
    _git init_ : initialize the repository  
@@ -24,7 +24,7 @@ This project was developed as part of the **CSFCP (Computer Science Fundamentals
 
 
 
-**#Features**
+**#Features**  
 - About Me section  
 - Projects section  
 - Skills section  
